@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Data (too large / proprietary)
+data/raw/
+data/processed/
+*.csv
+
+# Models
+models/
+*.pkl
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
